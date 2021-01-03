@@ -1,0 +1,42 @@
+token: "<YOUR TOKEN>"
+url: "https://lichess.org/"
+
+engine:
+  dir: "./engines/"
+  name: "AndThenThereWereNone"
+  protocol: "uci"
+  uci_ponder: true
+  polyglot:
+    enabled: false
+    book:
+      standard: "engines/book.bin"
+      min_weight: 1
+      selection: "best_move"
+    max_depth: 8
+  uci_options:
+    Move Overhead: 750
+    Slow Mover: 35
+    Ponder: true
+    Threads: 12
+    Hash: 4096
+  silence_stderr: false
+
+abort_time: 100
+fake_think_time: false
+move_overhead: 750
+
+challenge:
+  concurrency: 1
+  sort_by: "best"
+  accept_bot: true
+  max_increment: 180
+  min_increment: 0
+  variants:
+    - standard
+  time_controls:
+    - bullet
+    - blitz
+    - rapid
+  modes:
+    - casual
+    - rated
