@@ -8,7 +8,7 @@ Some relevant links:
 - https://lichess.org/oRfWN7Bu (v/s [WFM Fedricia](https://lichess.org/streamer/fredericia))
 - https://lichess.org/19lBtQnE (v/s [Stockfish Level 8](https://github.com/official-stockfish/Stockfish/releases/tag/sf_8))
 
-Want to play against me? Head over to this issue(#1) and post a comment. 
+Want to play against me? Head over to [this issue](https://github.com/nimishbongale/BOT-AndThenThereWereNone/issues/1) and post a comment. 
 
 ## Installation
 
