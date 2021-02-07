@@ -1,5 +1,9 @@
 # BOT-AndThenThereWereNone
 
+<p align="center">
+  <img src="https://lichess1.org/game/export/gif/19lBtQnE.gif" height=450 width=400></img>
+</p>
+
 BOT AndThenThereWereNone is an unforgiving & fairly strong lichess bot. It makes use of an nnue sample net, 12GB RAM, 12 threads, 4096 hash & 2 Intel(R) Xeon(R) CPU @ 2.20GHz. Temporary runtime available for free on [google colab](https://colab.research.google.com).
 
 Some relevant links:
