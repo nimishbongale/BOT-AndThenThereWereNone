@@ -37,6 +37,10 @@ You're all set! You may need to add your `API-KEY` from lichess.org to the API-K
 python3 lichess-bot.py
 ```
 
+## Acknowledgments
+
+- https://github.com/ShailChoksi/lichess-bot
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
